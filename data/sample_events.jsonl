@@ -1,0 +1,12 @@
+{"timestamp":"2026-09-25T20:00:00Z","host":"web-01","event_type":"auth_failure","user":"admin","src_ip":"203.0.113.45"}
+{"timestamp":"2026-09-25T20:00:10Z","host":"web-01","event_type":"auth_failure","user":"admin","src_ip":"203.0.113.45"}
+{"timestamp":"2026-09-25T20:00:20Z","host":"web-01","event_type":"auth_failure","user":"admin","src_ip":"203.0.113.45"}
+{"timestamp":"2026-09-25T20:00:30Z","host":"web-01","event_type":"auth_failure","user":"admin","src_ip":"203.0.113.45"}
+{"timestamp":"2026-09-25T20:00:40Z","host":"web-01","event_type":"auth_failure","user":"admin","src_ip":"203.0.113.45"}
+{"timestamp":"2026-09-25T20:02:00Z","host":"ws-07","event_type":"process_start","user":"lab-user","command_line":"powershell.exe -EncodedCommand SQBFAFgA","sha256":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+{"timestamp":"2026-09-25T20:03:00Z","host":"ws-07","event_type":"account_created","user":"lab-user","target_user":"svc-backup"}
+{"timestamp":"2026-09-25T20:04:00Z","host":"ws-07","event_type":"privilege_change","user":"lab-user","target_user":"svc-backup","new_role":"administrator"}
+{"timestamp":"2026-09-25T20:05:00Z","host":"ws-07","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.25","dst_port":443,"domain":"updates-lab.example"}
+{"timestamp":"2026-09-25T20:05:30Z","host":"ws-07","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.25","dst_port":443,"domain":"updates-lab.example"}
+{"timestamp":"2026-09-25T20:06:00Z","host":"ws-07","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.25","dst_port":443,"domain":"updates-lab.example"}
+{"timestamp":"2026-09-25T20:06:30Z","host":"ws-07","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.25","dst_port":443,"domain":"updates-lab.example"}
